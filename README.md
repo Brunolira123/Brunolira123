@@ -30,6 +30,8 @@
 
 <div align="center"> <br> 
   <img align="center" alt="guru-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="guru-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-plain.svg">
+  <img align="center" alt="lira-fluter" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg">
   <img align="center" alt="guru-spring-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="guru-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div> <br> 
@@ -40,6 +42,8 @@
 </div> 
 
 <div align="center"> <br> 
+  <img align="center" alt="lira-apple" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/xcode/xcode-original.svg">
+  <img align="center" alt="lira-androd" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="guru-intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
   <img align="center" alt="guru-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="guru-dbeaver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg">
@@ -47,11 +51,6 @@
   <img align="center" alt="guru-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="guru-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div> <br> 
-
-
-<div align="center"> <br>
-  <h3 align="center">Additional Knowledges</h3>
-</div> 
 
 
 <div align="center"> <br>
